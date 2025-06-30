@@ -30,7 +30,7 @@ const Navbar = () => {
                   aria-current="page"
                   to="/signup"
                 >
-                  SignUp
+                  Signup
                 </Link>
               </li>
               <li className="nav-item">

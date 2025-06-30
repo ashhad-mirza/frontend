@@ -10,8 +10,11 @@ const Hero = () => {
         </h1>
       </div>
 
-      <div className="row pt-5 mt-5 border-top">
-        <div className="col-6">
+      <div
+        className="row pt-5 mt-5 border-top text-muted fs-6"
+        style={{ lineHeight: "1.8", fontSize: "1.2em" }}
+      >
+        <div className="col-6 p-5">
           <p>
             We kick-started operations on the 15th of August, 2010 with the goal
             of breaking all barriers that traders and investors face in India in
