@@ -22,9 +22,9 @@ const Team = () => {
         </div>
         <div className="col-6 p-3 mt-4">
           <p>
-            Nithin bootstrapped and founded Zerodha in 2010 to overcome the
-            hurdles he faced during his decade long stint as a trader. Today,
-            Zerodha has changed the landscape of the Indian broking industry.
+            Founded Zerodha in 2010 to overcome the hurdles he faced during his
+            decade long stint as a trader. Today, Zerodha has changed the
+            landscape of the Indian broking industry.
           </p>
           <p>
             He is a member of the SEBI Secondary Market Advisory Committee
